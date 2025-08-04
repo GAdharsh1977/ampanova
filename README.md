@@ -18,6 +18,8 @@ The function generator also features voltage controlled switches made using mosf
 The image of this part of the circuit is given below:  
 <img width="1387" height="707" alt="image" src="https://github.com/user-attachments/assets/90c5e039-8477-4488-a65e-a1078169af0e" />  
 
+The second part of the function generator consists of a wein bridge oscillator circuit tuned to 1Hz, and a function generator tuned to 1000Hz, which can produce sine, square, triangular and quadratic waves (These are just triangular waves passed through an integrator). The function generator has been made into a custom component.
+
 
 
    
