@@ -1,0 +1,23 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -48 -56 64 56
+TEXT -59 69 Left 2 1->3_cloner
+WINDOW 0 8 -56 Bottom 2
+PIN -48 -32 LEFT 8
+PINATTR PinName Vcc
+PINATTR SpiceOrder 1
+PIN -48 0 LEFT 8
+PINATTR PinName Vee
+PINATTR SpiceOrder 2
+PIN -48 32 LEFT 8
+PINATTR PinName Vin
+PINATTR SpiceOrder 3
+PIN 64 -32 RIGHT 8
+PINATTR PinName V1
+PINATTR SpiceOrder 4
+PIN 64 0 RIGHT 8
+PINATTR PinName V2
+PINATTR SpiceOrder 5
+PIN 64 32 RIGHT 8
+PINATTR PinName V3
+PINATTR SpiceOrder 6
